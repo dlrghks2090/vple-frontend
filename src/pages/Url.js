@@ -1,1 +1,1 @@
-export const Url = "http://ec2-43-201-231-11.ap-northeast-2.compute.amazonaws.com:8080";
+export const Url = "http://localhost:8080";
